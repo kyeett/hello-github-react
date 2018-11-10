@@ -1,14 +1,14 @@
 {
-  "main.css": "/hello-react-app/static/css/main.b8cc278a.chunk.css",
-  "main.js": "/hello-react-app/static/js/main.640d9ada.chunk.js",
-  "main.js.map": "/hello-react-app/static/js/main.640d9ada.chunk.js.map",
-  "static/js/1.1a2fe23b.chunk.js": "/hello-react-app/static/js/1.1a2fe23b.chunk.js",
-  "static/js/1.1a2fe23b.chunk.js.map": "/hello-react-app/static/js/1.1a2fe23b.chunk.js.map",
-  "runtime~main.js": "/hello-react-app/static/js/runtime~main.1fc442d1.js",
-  "runtime~main.js.map": "/hello-react-app/static/js/runtime~main.1fc442d1.js.map",
-  "static/media/logo.svg": "/hello-react-app/static/media/logo.5d5d9eef.svg",
-  "static/css/main.b8cc278a.chunk.css.map": "/hello-react-app/static/css/main.b8cc278a.chunk.css.map",
-  "index.html": "/hello-react-app/index.html",
-  "precache-manifest.35c3b792e4a4ddc599ecda312d6f745e.js": "/hello-react-app/precache-manifest.35c3b792e4a4ddc599ecda312d6f745e.js",
-  "service-worker.js": "/hello-react-app/service-worker.js"
+  "main.css": "/hello-github-react/static/css/main.b8cc278a.chunk.css",
+  "main.js": "/hello-github-react/static/js/main.f2a0c4fc.chunk.js",
+  "main.js.map": "/hello-github-react/static/js/main.f2a0c4fc.chunk.js.map",
+  "static/js/1.1a2fe23b.chunk.js": "/hello-github-react/static/js/1.1a2fe23b.chunk.js",
+  "static/js/1.1a2fe23b.chunk.js.map": "/hello-github-react/static/js/1.1a2fe23b.chunk.js.map",
+  "runtime~main.js": "/hello-github-react/static/js/runtime~main.fc48c1ad.js",
+  "runtime~main.js.map": "/hello-github-react/static/js/runtime~main.fc48c1ad.js.map",
+  "static/media/logo.svg": "/hello-github-react/static/media/logo.5d5d9eef.svg",
+  "static/css/main.b8cc278a.chunk.css.map": "/hello-github-react/static/css/main.b8cc278a.chunk.css.map",
+  "index.html": "/hello-github-react/index.html",
+  "precache-manifest.11bde5beacea8a0eeb841cf7a9b82def.js": "/hello-github-react/precache-manifest.11bde5beacea8a0eeb841cf7a9b82def.js",
+  "service-worker.js": "/hello-github-react/service-worker.js"
 }
